@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+  <person>
+    <firstName>John</firstName>
+    <lastName>Ramsay</lastName>
+    <address>
+      <Line1>417 Honey Close,</Line1>
+      <Line2>Sydney, NSW 2002</Line2>
+    </address>
+  </person>
+  <position>
+    <Num>1211-3SPM</Num>
+    <Title>Senior Project Manager</Title>
+  </position>
+  <acknowledgeDate>March 12, 2020</acknowledgeDate>
+  <numApplications>57</numApplications>
+  <includeTimeframe>true</includeTimeframe>
+  <responseDate>Friday, Apr 10 2020</responseDate>
+  <hrRep>
+    <name>Julie Partner</name>
+    <Position>Human Resources Manager</Position>
+  </hrRep>
+  <branch>
+    <Addr1>154-164 The Embarcadero</Addr1>
+    <Addr2>San Francisco</Addr2>
+    <State>CA</State>
+    <ZIP>94105</ZIP>
+    <Phone>(1) 555-123-1234</Phone>
+    <Email>hr@metalegalfinance.com</Email>
+  </branch>
+</data>

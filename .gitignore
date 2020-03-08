@@ -1,0 +1,17 @@
+*.swp
+*~
+*.user
+*.wixobj
+*.pdb
+*.user
+local_*
+.DS_Store
+
+**/.vs/
+**/bin/
+**/obj/
+**/packages/
+
+*.class
+**/.idea/
+docmosis*.jar

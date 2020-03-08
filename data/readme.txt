@@ -1,0 +1,1 @@
+These files are from the Docmosis samples.
